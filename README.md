@@ -1,5 +1,4 @@
 ## Hi there 👋
-![Total Stars](https://img.shields.io/github/stars/thuanaislab?style=social)
 
 <!--
 **thuanaislab/thuanaislab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
